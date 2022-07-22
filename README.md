@@ -1,6 +1,7 @@
 
 
-# Taps - The data source from which data will be extracted is known as the tap. There are ready-made Taps available on the Singer site which can be used as it is, or custom taps can also be created.
+# Taps 
+The data source from which data will be extracted is known as the tap. There are ready-made Taps available on the Singer site which can be used as it is, or custom taps can also be created.
 For this test we will be building a custom tap to get astronomy data from sunrise-sunset.org/api. 
 
 API Documentation: https://sunrise-sunset.org/api
